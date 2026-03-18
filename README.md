@@ -5,6 +5,7 @@ A full-stack blogging application built using Spring Boot.
 ##  Technologies Used
 - Java
 - Spring Boot
+- Spring Data JPA
 - Hibernate
 - MySQL
 - REST APIs
