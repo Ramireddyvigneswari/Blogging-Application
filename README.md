@@ -10,11 +10,16 @@ A full-stack blogging application built using Spring Boot.
 - MySQL
 - REST APIs
 
-##  Features
-- Create, update, delete blog posts
-- User authentication
-- RESTful APIs
-- Database integration using Hibernate
+## Features
+- CRUD operations for blog posts
+- REST APIs using Spring Boot
+- MySQL database integration
+
+## Tech Stack
+- Java
+- Spring Boot
+- Hibernate (JPA)
+- MySQL
 
 ##  How to Run
 1. Clone the repository
